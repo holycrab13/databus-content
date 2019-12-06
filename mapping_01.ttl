@@ -9,4 +9,4 @@ databus-sys:Mapping a rdfs:Class .
 	a 			databus-sys:Mapping ;
 	dcat:downloadURL 	<https://raw.githubusercontent.com/holycrab13/databus-content/master/mapping_01.txt> ;
 	databus-sys:worksWith 	<https://databus.dbpedia.org/dbpedia/databus/databus-data> ;
-	dct:title 		"asdasdkl"@en .
+	dct:title 		"First Mapping"@en .
