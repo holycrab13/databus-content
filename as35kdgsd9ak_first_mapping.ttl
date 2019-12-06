@@ -6,7 +6,7 @@
 databus-sys:Mapping a rdfs:Class .
 
 <https://raw.githubusercontent.com/holycrab13/databus-content/master/as35kdgsd9ak_first_mapping.ttl>
-	a 			databus.sys:Mapping ;
+	a 			databus-sys:Mapping ;
 	dcat:downloadURL 	<https://raw.githubusercontent.com/holycrab13/databus-content/master/as35kdgsd9ak_first_mapping.txt> ;
 	databus-sys:worksWith 	<https://databus.dbpedia.org/dbpedia/databus/databus-data> ;
 	dct:title 		"First Mapping"@en .
