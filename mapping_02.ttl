@@ -8,5 +8,6 @@ databus-sys:Mapping a rdfs:Class .
 <https://raw.githubusercontent.com/holycrab13/databus-content/master/mapping_02.ttl>
 	a 			databus-sys:Mapping ;
 	dcat:downloadURL 	<https://raw.githubusercontent.com/holycrab13/databus-content/master/mapping_02.txt> ;
+	databus-sys:mainArtifact 	<https://databus.dbpedia.org/dbpedia/databus/databus-data> ;
 	databus-sys:worksWith 	<https://databus.dbpedia.org/dbpedia/databus/databus-data> ;
 	dct:title 		"Second Mapping"@en .
